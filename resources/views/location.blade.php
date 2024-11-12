@@ -156,7 +156,7 @@
 
     <!-- Load the Google Maps JavaScript API with callback -->
     <script
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDVoJc1l1wFpYgywLjlcAtvkJ5wXYVbC_4&callback=initMap"
+        src="https://maps.googleapis.com/maps/api/js?key=Your_Api_KeyC_4&callback=initMap"
         async
     ></script>
 
